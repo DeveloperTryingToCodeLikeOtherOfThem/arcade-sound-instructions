@@ -1,0 +1,17 @@
+{
+    "name": "arcade-sound-instructions",
+    "version": "0.0.0",
+    "files": [
+        "main.ts",
+        "custom.ts",
+        "modulation.ts",
+        "api.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "dependencies": {
+        "device": "*"
+    },
+    "testDependencies": {}
+}
