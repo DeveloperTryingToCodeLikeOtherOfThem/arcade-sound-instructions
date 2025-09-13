@@ -17,7 +17,7 @@ namespace sound {
         constructor() {
 
         }
-
+       // resets the current time and step of the instruction dounds
         reset() {
             this.currentTime = 0;
             this.currentStep = 0;
